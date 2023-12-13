@@ -37,6 +37,15 @@ Space Survival 3D is an action-packed 3D game featuring both guns and swords. Wi
 - **Crouch:** Shift
 - **Look Around:** Mouse
 
+## System Requirements
+
+- **OS:** Windows 7/8/10 (64-bit)
+- **Processor:** Intel Core i5-2400 / AMD FX-8320 or equivalent
+- **Memory:** 4 GB RAM
+- **Graphics:** NVIDIA GTX 670 2GB / AMD Radeon HD 7870 2GB or equivalent
+- **DirectX:** Version 11
+- **Storage:** 150 MB available space
+- 
 ## Developer
 
 Omer-Games
