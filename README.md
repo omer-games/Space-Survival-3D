@@ -25,6 +25,17 @@ Space Survival 3D is an action-packed 3D game featuring both guns and swords. Wi
 3. **Run the Game:**
 
     - Double-click the "Space Survival 3D.exe" file to launch the game.
+    - 
+## Controls
+
+- **Movement:** W, A, S, D
+- **Jump:** Space
+- **Sword/Throwable Interaction:** Left Click
+- **Gun Shooting:** Right Click
+- **Throwable Throw:** Middle Click
+- **Sprint:** Ctrl
+- **Crouch:** Shift
+- **Look Around:** Mouse
 
 ## Developer
 
