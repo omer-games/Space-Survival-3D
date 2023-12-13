@@ -41,4 +41,4 @@ Omer-Games
 
 ## License
 
-This project is by omer-games and is open-source under the [MIT License](LICENSE).
+This project is by omer-games and is open-source under the [MIT License](https://github.com/omer-games/Space-Survival-3D/blob/main/LICENSE.txt).
