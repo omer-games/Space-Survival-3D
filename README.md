@@ -17,16 +17,12 @@ Space Survival 3D is an action-packed 3D game featuring both guns and swords. Wi
     git clone https://github.com/omer-games/Space-Survival-3D.git
     ```
 
-2. **Download Game Files:**
+2. **Extract Game Files:**
 
-    - Download the "UnityPlayer.rar" and "Space Survival 3D 5.3.rar" files from the repository.
-
-3. **Extract Game Files:**
-
-    - Extract the contents of both ".rar" files to the same directory.
+    - Extract the contents of the ".rar" files ("UnityPlayer.rar" and "Space Survival 3D 5.3.rar") to the same directory.
     - Ensure that the extracted files include the "Space Survival 3D.exe" file.
 
-4. **Run the Game:**
+3. **Run the Game:**
 
     - Double-click the "Space Survival 3D.exe" file to launch the game.
 
