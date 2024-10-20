@@ -25,7 +25,14 @@ Space Survival 3D is an action-packed 3D game featuring both guns and swords. Wi
 3. **Run the Game:**
 
     - Double-click the "Space Survival 3D.exe" file to launch the game.
-    - 
+
+## Android Version
+
+**There is a version of this game for Android, check it out :D**
+
+[Download Space Survival 3D APK](https://drive.google.com/uc?export=download&id=17Cpl1AlbAdD4Y5i6DThPeY6HzhRSWD_u)
+
+
 ## Controls
 
 - **Movement:** W, A, S, D
@@ -46,10 +53,7 @@ Space Survival 3D is an action-packed 3D game featuring both guns and swords. Wi
 - **DirectX:** Version 11
 - **Storage:** 150 MB available space
 
-## Android Version
 
-- **There is a version of this game for Android, check it out :D
-  [Download Space Survival 3D APK](https://drive.google.com/uc?export=download&id=17Cpl1AlbAdD4Y5i6DThPeY6HzhRSWD_u)
 
 ## Developer
 
