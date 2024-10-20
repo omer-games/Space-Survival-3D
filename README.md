@@ -45,7 +45,12 @@ Space Survival 3D is an action-packed 3D game featuring both guns and swords. Wi
 - **Graphics:** NVIDIA GTX 670 2GB / AMD Radeon HD 7870 2GB or equivalent
 - **DirectX:** Version 11
 - **Storage:** 150 MB available space
-- 
+
+## Android Version
+
+- **There is a version of this game for Android, check it out :D
+  [Download Space Survival 3D APK](https://drive.google.com/uc?export=download&id=17Cpl1AlbAdD4Y5i6DThPeY6HzhRSWD_u)
+
 ## Developer
 
 Omer-Games
